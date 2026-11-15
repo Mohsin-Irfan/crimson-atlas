@@ -1,0 +1,88 @@
+CRIMSON ATLAS — THIRD-PARTY NOTICES
+
+For the game file and the presentation materials prepared in this workspace.
+
+1. THREE.JS r128
+
+The game bundles three.js r128. Source and license:
+https://github.com/mrdoob/three.js/tree/r128
+https://github.com/mrdoob/three.js/blob/r128/LICENSE
+
+The MIT License
+
+Copyright © 2010-2021 three.js authors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+2. NASA / USGS VIKING MARS MOSAIC
+
+Mars Viking Colorized Global Mosaic (MDIM 2.1). Credit: NASA Ames / NASA JPL / USGS Astrogeology Science Center.
+https://astrogeology.usgs.gov/search/map/mars_viking_colorized_global_mosaic_232m
+USGS Astrogeology's metadata describes the mosaic as public domain with no use constraints:
+https://www.arcgis.com/home/item.html?id=1efb16809db84f0c892b9b0662dab0c8
+The game's embedded JPEG has the same 1024 x 512 dimensions and near-identical pixels as the USGS 1024-pixel downloadable image, but its bytes differ, consistent with re-encoding.
+
+3. DEJAVU FONTS — PRESENTATION AND VIDEO GRAPHICS
+
+DejaVu Sans and DejaVu Sans Bold were used in presentation and video graphics; their font software may be embedded in the PDF. Source: https://dejavu-fonts.github.io/ ; license: https://dejavu-fonts.github.io/License.html
+
+Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.
+Bitstream Vera is a trademark of Bitstream, Inc.
+DejaVu changes are in public domain.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of the fonts accompanying this license ("Fonts") and associated
+documentation files (the "Font Software"), to reproduce and distribute the
+Font Software, including without limitation the rights to use, copy, merge,
+publish, distribute, and/or sell copies of the Font Software, and to permit
+persons to whom the Font Software is furnished to do so, subject to the
+following conditions:
+
+The above copyright and trademark notices and this permission notice shall
+be included in all copies of one or more of the Font Software typefaces.
+
+The Font Software may be modified, altered, or added to, and in particular
+the designs of glyphs or characters in the Fonts may be modified and
+additional glyphs or characters may be added to the Fonts, only if the fonts
+are renamed to names not containing either the words "Bitstream" or the word
+"Vera".
+
+This License becomes null and void to the extent applicable to Fonts or Font
+Software that has been modified and is distributed under the "Bitstream
+Vera" names.
+
+The Font Software may be sold as part of a larger software package but no
+copy of one or more of the Font Software typefaces may be sold by itself.
+
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT,
+TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME
+FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING
+ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES,
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF
+THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE
+FONT SOFTWARE.
+
+Except as contained in this notice, the names of Gnome, the Gnome
+Foundation, and Bitstream Inc., shall not be used in advertising or
+otherwise to promote the sale, use or other dealings in this Font Software
+without prior written authorization from the Gnome Foundation or Bitstream
+Inc., respectively. For further information, contact: fonts at gnome dot
+org.
